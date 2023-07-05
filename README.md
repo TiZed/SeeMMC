@@ -4,6 +4,8 @@ A small project to connect onboard eMMC ICs to an SD-Card slot.
 
 The adaptor includes a level translator and 1.8V supply, to prevent damage to the board with the eMMC.
 
+This will only work for boards that have accessible eMMC signals, and can prevent onboard CPU from intervening.
+
 <img src="https://github.com/TiZed/SeeMMC/blob/main/SeeMMC_Front.png" height="500" width="406" >
 <img src="https://github.com/TiZed/SeeMMC/blob/main/SeeMMC_Back.png" height="500" width="406" >
 
