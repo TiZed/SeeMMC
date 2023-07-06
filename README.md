@@ -6,6 +6,8 @@ The adaptor includes a level translator and 1.8V supply, to prevent damage to th
 
 This will only work for boards that have accessible eMMC signals, and can prevent onboard CPU from intervening.
 
+To fit in a SD card slot, this design has to be manufactured with a PCB thickness of 1.2mm, not the default 1.6mm.
+
 <img src="https://github.com/TiZed/SeeMMC/blob/main/SeeMMC_Front.png" height="500" width="406" >
 <img src="https://github.com/TiZed/SeeMMC/blob/main/SeeMMC_Back.png" height="500" width="406" >
 
